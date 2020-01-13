@@ -23,11 +23,11 @@
             
             <div class="container">
                 <div class="col-md-6 contacts">
-                    <h1><span class="glyphicon glyphicon-user"></span> Jullian Engracio</h1>
+                    <h1><span class="glyphicon glyphicon-user"></span> Prasad Babu</h1>
                     <p>
-                        <span class="glyphicon glyphicon-envelope"></span> Email: julzengracio@yahoo.ie<br>
-                        <span class="glyphicon glyphicon-link"></span> Facebook: www.facebook.com/julzengracio<br>
-                        <span class="glyphicon glyphicon-phone"></span> Mobile: 08712345678
+                        <span class="glyphicon glyphicon-envelope"></span> Email: vaprasadbabuBTECH16@ced.alliance.edu.in<br>
+                        <span class="glyphicon glyphicon-link"></span> Facebook: https://www.facebook.com/prasad.babu.520125<br>
+                        <span class="glyphicon glyphicon-phone"></span> Mobile: 09010098903
                     </p>
                 </div>
                 <div class="col-md-6">
